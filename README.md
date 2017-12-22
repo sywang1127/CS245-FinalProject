@@ -1,4 +1,4 @@
 # CS245-FinalProject
-Add button for each user-defined function
-Construct Stack class under observer mode
-if/else allowed here
+1. Add button for each user-defined function
+2. Construct Stack class under observer mode
+3. if/else allowed here
